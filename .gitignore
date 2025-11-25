@@ -5,12 +5,6 @@
 # ============================================
 # Environment Variables & Secrets
 # ============================================
-.env
-.env.local
-.env.*.local
-.env.production
-.env.development
-*.env
 
 /navayuga_field_officer
 /data
